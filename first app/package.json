@@ -1,0 +1,17 @@
+{
+  "name": "tray",
+  "version": "1.0.0",
+  "description": "system tray",
+  "main": "tray.js",
+  "scripts": {
+    "start": "electron-packager ."
+  },
+  "author": "rahul kumar",
+  "license": "ISC",
+  "dependencies": {
+    "auto-launch": "^5.0.5",
+    "electron": "^6.0.12",
+    "electron-packager": "^14.1.0"
+  },
+  "devDependencies": {}
+}
